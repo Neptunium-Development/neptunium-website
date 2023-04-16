@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lumina Dev's</title>
+  <link rel="icon" href="https://raw.githubusercontent.com/neptunium-website/src/background" type="jpg" sizes="32x32">
+  <link rel="stylesheet" href="dev_styles.css">
+  <script src="dev_script.js" defer></script>
+</head>
+
+<body>
+      <div class="top-right">
+        <a href="/LuminaWebsite/" class="button dev">Back</a>
+    </div>
+  <canvas id="floating-balls"></canvas>
+  <main>
+    <section class="developer">
+      <h2>Developers</h2>
+      <div class="developer-card">
+        <h3>Qweru</h3>
+        <img class="developer-image" id="qweru-image">
+        </img>
+      </div>
+      <div class="developer-card">
+        <h3>Stormcph</h3>
+        <img class="developer-image" id="stormcph-image">
+        </img>
+      </div>
+        <div class="developer-card">
+        <h3>CorruptionHades</h3>
+        <img class="developer-image" id="CorruptionHades-image">
+        </img>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
